@@ -1,6 +1,5 @@
-google.com, pub-1008245600876310, DIRECT, f08c47fec0942fa0
+google.com, pub-3234403963187096, DIRECT, f08c47fec0942fa0
 facebook.com, 2687302544746617, DIRECT, c3e20eee3f780d68
-facebook.com, 1544211923813520, DIRECT, c3e20eee3f780d68
 facebook.com, 275639563831167, DIRECT, c3e20eee3f780d68
 facebook.com, 921811151634904, DIRECT, c3e20eee3f780d68
 facebook.com, 1133258070366937, DIRECT, c3e20eee3f780d68
@@ -21,6 +20,9 @@ facebook.com, 4443798832410682, RESELLER,с3e20eee3f780d68
 facebook.com, 1010023650018385, RESELLER, c3e20eee3f780d68
 facebook.com, 716037127056797, RESELLER, c3e20eee3f780d68
 facebook.com, 987813356777971, RESELLER, c3e20eee3f780d68
+OWNERDOMAIN=eygames.github.io
+bidease.com, bidease_seller_26, RESELLER
+taurusx.com, 70119, RESELLER
 ## AdsTxtSite app-ads.txt - Updated at: 2026-03-06
 33across.com,001Pg0000197KcKIAU,RESELLER,bbea06d9c4d2853c
 bidmachine.io,258,RESELLER
